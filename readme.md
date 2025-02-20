@@ -25,6 +25,7 @@ format('ttf')
 * {
 font-family: 'sprun' !important;}
 </style>```
+
 1. adjust {{FONT YOU WANT TO USE}} to be the name of the file saved in public (such as sprun for spirit runes, or ancient for ancient)
 # What is this?
 This is an express server allowing you to host custom fonts for accessing on an external website
