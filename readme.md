@@ -13,7 +13,8 @@
 1. Go to https://homebrewery.naturalcrit.com/
 1. Click create your own
 1. In the text editor on the left, add the following code:
-``` <style>
+```
+<style>
       @font-face { 
 font-family: 'sprun';
 crossorigin: 'anonymous';
@@ -24,7 +25,8 @@ format('ttf')
 <style> 
 * {
 font-family: 'sprun' !important;}
-</style>```
+</style>
+```
 
 1. adjust {{FONT YOU WANT TO USE}} to be the name of the file saved in public (such as sprun for spirit runes, or ancient for ancient)
 # What is this?
