@@ -9,7 +9,23 @@
 1. run this command `npm i express`
 1. run this command `npm i express cors`
 1. run this command `node server.js`
+# Now it's running what do I do?
+1. Go to https://homebrewery.naturalcrit.com/
+1. Click create your own
+1. In the text editor on the left, add the following code:
+``` <style>
+      @font-face { 
+font-family: 'sprun';
+crossorigin: 'anonymous';
+src: url('http://localhost:3000/{{FONT YOU WANT TO USE}}.ttf');
+format('ttf')
+} </style>
 
+<style> 
+* {
+font-family: 'sprun' !important;}
+</style>```
+1. adjust {{FONT YOU WANT TO USE}} to be the name of the file saved in public (such as sprun for spirit runes, or ancient for ancient)
 # What is this?
 This is an express server allowing you to host custom fonts for accessing on an external website
 # What site is it intended for?
