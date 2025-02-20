@@ -34,4 +34,5 @@ This is an express server allowing you to host custom fonts for accessing on an 
 # What site is it intended for?
 Homebrewery.naturalcrit.com - check it out! They made an amazing CSS editor which really makes your content flavourful
 # Why build this?
-In the LARP system Labyrinthe people make scrolls and these need physical representations. So I'm hijacking a tool I use for making things look fantasy-esque and applying the Labyrinthe custom fonts to it.
+Firstly, I'm bad at using Microsoft Word, but not too bad with basic HTML and markdown. I like using homebrewery to make shit look pretty, so now I've combined the two and said Fuck you, to Microsoft word
+Secondly In the LARP system Labyrinthe people make scrolls and these need physical representations. So I'm hijacking a tool I use for making things look fantasy-esque and applying the custom fonts (which are like wingdings) to it.
